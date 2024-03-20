@@ -117,7 +117,7 @@ body main .hero .hero-style .cards {
 body main .hero .hero-style .cards .card {
   position: relative;
   max-width: 288px;
-  height: 453px;
+  height: 553px;
 }
 body main .hero .hero-style .cards .card .card-text {
   display: flex;
